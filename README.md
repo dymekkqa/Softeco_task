@@ -23,7 +23,14 @@ Ten projekt zawiera skrypt dla strony [Banking Project](https://www.globalsqa.co
         source .venv/bin/activate
         ```
 
-3. Zainstaluj zależności:
+
+3. Zaloguj się w folderze projecta:
+
+   ```bash
+    cd path\Softeco_task
+    ```
+
+4. Zainstaluj zależności:
 
     ```bash
     pip install -r requirements.txt
