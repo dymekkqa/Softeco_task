@@ -1,11 +1,12 @@
 # Projekt testowania menedżera bankowego
 
-Ten projekt zawiera skrypt dla strony [Banking Project](https://www.globalsqa.com/) z wykorzystaniem Selenium i pytest.
+Ten projekt zawiera skrypt dla strony [Banking Project](https://www.globalsqa.com/) z wykorzystaniem Selenium i Pythona 3.9.
 
 ## Instalacja zależności
-
-1. Sklonuj repozytorium lub pobierz kod źródłowy projektu.
-2. Utwórz i aktywuj wirtualne środowisko (opcjonalnie, ale zalecane):
+1. Zainstaluj Python 3.9
+2. Upewnij się że przy instalacji Pythona był aktywowany check-box "Add Python to PATH"
+3. Sklonuj repozytorium lub pobierz kod źródłowy projektu.
+4. Utwórz i aktywuj wirtualne środowisko (opcjonalnie, ale zalecane):
 
     ```bash
     python -m venv .venv
